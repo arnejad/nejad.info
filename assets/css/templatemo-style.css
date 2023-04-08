@@ -389,6 +389,9 @@ button:hover {
     border-radius: 5px;
 }
 
+.left-image-c img {
+    border-radius: 50%;
+}
 .right-image-post h4,
 .left-image-post h4 {
     margin-top: 5px;
